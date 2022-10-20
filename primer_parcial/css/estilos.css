@@ -1,0 +1,73 @@
+/*no esta funcionando css*/
+h1{ 
+	color: #e64a19;
+	font-family: 'Roboto', sans-serif;
+	
+}
+nav ul li{/*menu con array*/
+	display: inline;
+	margin-right: 20px;
+	font-size: 30px;
+	text-align: center;
+}
+
+nav{
+	background-color:#4b830d;
+	/*border:solid;*/
+	border-radius: 5px;
+}
+
+body{  background-color: #7cb342;
+	font-family: 'Roboto Condensed', sans-serif;
+	
+}
+
+a{/*links menu */
+	color: white;
+	text-decoration: none
+}
+
+footer  {
+	font-size: 10px;
+	background-color:#4b830d;
+	color: white;
+	position: relative;
+	bottom: 0;
+	width: 99%;
+	text-align: center;
+	border-radius: 5px;
+	
+}
+
+ footer p span {/*separa iconos del footer*/
+margin-right: 10px;
+font-size: small;
+ }
+
+ .centrado{ /*Bordes*/
+	margin: auto;
+
+	border-radius: 5px;
+	margin :10px;
+	
+ }
+ form {
+	
+	margin: 0 auto;
+	/*border: solid;
+	background-color: #ac0800;
+	border-radius: 10px;*/
+	margin :10px;
+	font-size: x-large;
+ }
+
+ #derecha{
+	margin-left: 1000px;
+ }
+ .cursiva{
+	font-style: oblique;
+ }
+
+ p{
+	font-size: large;
+ }
